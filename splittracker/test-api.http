@@ -1,0 +1,11 @@
+
+### Create a group
+POST http://localhost:8080/api/groups
+Content-Type: application/json
+
+{
+  "name": "Goa Trip"
+}
+
+### Get all groups
+GET http://localhost:8080/api/groups

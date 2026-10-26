@@ -6,7 +6,7 @@ Splitly is a full-stack group expense-tracking application. Users create groups,
 
 ## Screenshots
 
-![Dashboard]("C:\Users\ankit\OneDrive\Pictures\Screenshots\Screenshot 2026-10-26 130328.png")
+![Dashboard](screenshots/dashboard.png")
 ![Expenses](screenshots/expenses.png)
 ![Balances](screenshots/balances.png)
 ![Settlements](screenshots/settlements.png)
